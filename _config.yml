@@ -24,7 +24,7 @@ github_username:  yutsuku
 
 # Build settings
 markdown: kramdown
-remote-theme: jekyll/minima
+theme: minima
 plugins:
   - jekyll-feed
 
