@@ -17,7 +17,7 @@ title: Just PHP things
 email: moh@yutsuku.net
 description: >- # this means to ignore newlines until "baseurl:"
   PHP Developer for hire, probably
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/php-code-samples" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 github_username:  yutsuku
