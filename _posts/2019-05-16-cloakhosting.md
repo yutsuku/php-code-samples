@@ -1,7 +1,5 @@
 ---
-layout: post
-title: "CloakHosting"
-categories: php code samples
+layout: "post"
 ---
 
-
+{% include cloakhosting/readme.md %}

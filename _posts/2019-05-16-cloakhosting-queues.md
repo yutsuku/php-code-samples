@@ -1,6 +1,5 @@
 ---
-layout: post
-title: "CloakHosting Queues"
-categories: php code samples
+layout: "post"
 ---
 
+{% include cloakhosting-queues/readme.md %}
