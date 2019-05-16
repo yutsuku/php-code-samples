@@ -4,5 +4,5 @@ title: "CloakHosting"
 categories: php code samples
 ---
 
-{% include_relative cloakhosting/readme.md %}}
+{% include cloakhosting/readme.md %}}
 
